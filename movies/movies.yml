@@ -1,0 +1,11 @@
+---
+1: !ruby/object:Movies
+  title: Beetlejuice
+  director: Tim Burton
+  year: '1988'
+  id: 1
+2: !ruby/object:Movies
+  title: Power Rangers
+  director: Random Guy
+  year: '2017'
+  id: 2
